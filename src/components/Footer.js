@@ -19,7 +19,7 @@ export default function Footer(){
                         <i class="fa-solid fa-square footer-icons"></i>
                         <span className="useful-links-inner-span">Autobots</span>
                     </Link>
-                    <Link className="useful-links-inner" to="/gallery">
+                    <Link className="useful-links-inner" to="/register">
                         <i class="fa-solid fa-square footer-icons"></i>
                         <span className="useful-links-inner-span">Register</span>
                     </Link>

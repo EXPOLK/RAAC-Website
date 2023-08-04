@@ -16,8 +16,8 @@ export default function Home(){
                 buttonText="About Us"
                 isHome={true}
             />
-            <About/>
             <Board/>
+            <About/>
             <Footer/>
         </div>
     )

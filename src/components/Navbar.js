@@ -14,7 +14,7 @@ export default function Navbar(){
                     <li><Link className="active" to="/">Home</Link></li>
                     {/* <li><Link to="/events">Events</Link></li> */}
                     <li><Link to="/autobots">Autobots</Link></li>
-                    <li><Link to="/gallery">Register</Link></li>
+                    <li><Link to="/register">Register</Link></li>
                 </ul>
             </nav>
         </header>
