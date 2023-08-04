@@ -6,16 +6,19 @@ export default function Board(){
             id:1,
             name:'Sithum Sankalpa',
             post:'Secretary',
+            img:'/img/sithum.png',
         },
         {
             id:2,
             name:'Dimuthu Rupasinghe',
             post:'Secretary',
+            img:'/img/dimuthu.jpg',
         },
         {
             id:3,
             name:'Chanupa Sasmitha',
             post:'Treasurer',
+            img:'/img/chanupa.jpeg',
         },
         {
             id:0,
@@ -47,6 +50,7 @@ export default function Board(){
                             <div className="m-t"></div>
                             <h1 className="board-member-section-name el-sec-name">{post.name}</h1>
                             <h2 className="board-member-section-post">{post.post}</h2>
+                            <img className="board-member-section-img" src={post.img}></img>
                         </div>
                     ))}
                 </div>
