@@ -26,30 +26,32 @@ export default function Footer(){
                 </div>
                 <div className="socialmedia-links">
                     <h1 className="footer-mini-h">Social Medias</h1>
-                    <a className="socialmedia-links-inner" href="https://www.facebook.com/" target='_blank'>
+                    <a className="socialmedia-links-inner" href="https://www.facebook.com/RAACOFFICIAL2022" target='_blank'>
                         <i class="fa-brands fa-facebook footer-icons footer-social-media-icons"></i>
                         <span className="socialmedia-links-inner-span">Facebook</span>
                     </a>
-                    <a className="socialmedia-links-inner" href="https://www.instagram.com/" target='_blank'>
+                    <a className="socialmedia-links-inner" href="https://instagram.com/raac_official_2022" target='_blank'>
                         <i class="fa-brands fa-instagram footer-icons footer-social-media-icons"></i>
                         <span className="socialmedia-links-inner-span">Instagram</span>
                     </a>
-                    <a className="socialmedia-links-inner" href="https://www.youtube.com/" target='_blank'>
+                    <a className="socialmedia-links-inner" href="https://www.youtube.com/@roboticsassociationofanand1573" target='_blank'>
                         <i class="fa-brands fa-youtube footer-icons footer-social-media-icons"></i>
                         <span className="socialmedia-links-inner-span">Youtube</span>
                     </a>
                 </div>
                 <div className="footer-description">
                     <h1 className="footer-mini-h">Reach Us</h1>
-                    <a className="socialmedia-links-inner" href="https://www.facebook.com/" target='_blank'>
+                    <a className="socialmedia-links-inner" href="https://www.google.com/maps/place/Ananda+College/@6.9248629,79.717949,12z/data=!4m
+                    10!1m2!2m1!1sananda+college!3m6!1s0x3ae2590d00000001:0x608d35c5c354870f!8m2!3d6.9248629!4d79.8703843!15sCg5hbmFuZGEgY29sbGVnZZI
+                    BDXB1YmxpY19zY2hvb2zgAQA!16zL20vMDdzajAx?entry=ttu" target='_blank'>
                         <i class="fa-solid fa-location-dot footer-icons footer-social-media-icons"></i>
                         <span className="socialmedia-links-inner-span">Ananda College, Maradana Rd, Colombo 10</span>
                     </a>
-                    <a className="socialmedia-links-inner" href="https://www.instagram.com/" target='_blank'>
+                    <a className="socialmedia-links-inner" href="mailto:anandacollegeroboticsassociation@gmail.com" target='_blank'>
                         <i class="fa-solid fa-envelope footer-icons footer-social-media-icons"></i>
                         <span className="socialmedia-links-inner-span">anandacollegeroboticsassociation@gmail.com</span>
                     </a>
-                    <a className="socialmedia-links-inner" href="https://www.youtube.com/" target='_blank'>
+                    <a className="socialmedia-links-inner" href="tel:0704635482" target='_blank'>
                         <i class="fa-solid fa-phone footer-icons footer-social-media-icons"></i>
                         <span className="socialmedia-links-inner-span">0704635482</span>
                     </a>
