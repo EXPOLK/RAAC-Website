@@ -19,16 +19,6 @@ export default function Board(){
             name:'Chanupa Sasmitha',
             post:'Treasurer',
             img:'/img/chanupa.jpeg',
-        },
-        {
-            id:0,
-            name:'Sithum Kolamunna',
-            post:'Vice President',
-        },
-        {
-            id:4,
-            name:'Sasiru Shamal',
-            post:'Asst. Secretary',
         }
     ]
     return(
@@ -37,7 +27,6 @@ export default function Board(){
                 <h1 className="h">Board Of Officials</h1>
                 <div className="h-underline"></div>
             </div>
-            <img src="/img/board.jpeg" className="board-img"/>
             <div className="inner-board">
                 <div className="president-section">
                     <div className="m-t"></div>
@@ -53,6 +42,16 @@ export default function Board(){
                             <img className="board-member-section-img" src={post.img}></img>
                         </div>
                     ))}
+                    <div className="board-member-section" >
+                            <div className="m-t"></div>
+                            <h1 className="board-member-section-name el-sec-name">Sithum Kolamunna</h1>
+                            <h2 className="board-member-section-post">Vice President</h2>
+                    </div>
+                    <div className="board-member-section" >
+                        <div className="m-t"></div>
+                        <h1 className="board-member-section-name el-sec-name">Sasiru Shamal</h1>
+                        <h2 className="board-member-section-post">Asst. Secretary</h2>
+                    </div>
                 </div>
                 <div className="other-board">
                     <div className="board-member-section">
