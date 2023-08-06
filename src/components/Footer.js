@@ -24,6 +24,8 @@ export default function Footer(){
                         <span className="useful-links-inner-span">Register</span>
                     </Link>
                 </div>
+
+                
                 <div className="socialmedia-links">
                     <h1 className="footer-mini-h">Social Medias</h1>
                     <a className="socialmedia-links-inner" href="https://www.facebook.com/RAACOFFICIAL2022" target='_blank'>
@@ -39,6 +41,8 @@ export default function Footer(){
                         <span className="socialmedia-links-inner-span">Youtube</span>
                     </a>
                 </div>
+
+
                 <div className="footer-description">
                     <h1 className="footer-mini-h">Reach Us</h1>
                     <a className="socialmedia-links-inner" href="https://www.google.com/maps/place/Ananda+College/@6.9248629,79.717949,12z/data=!4m
