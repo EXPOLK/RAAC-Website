@@ -6,7 +6,7 @@ export default function Board(){
             id:1,
             name:'Sithum Sankalpa',
             post:'Secretary',
-            img:'/img/sithum.png',
+            img:'/img/sithum.jpg',
         },
         {
             id:2,
